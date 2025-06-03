@@ -1,0 +1,44 @@
+/**
+ * file: journal_karbytes_03june2025_p0.txt
+ * type: plain-text
+ * date: 03_JUNE_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following content is a sequel to the journal entry at the following Uniform Resource Locator:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_41/main/journal_karbytes_02june2025_p0.txt
+
+* * *
+
+Today (03_JUNE_2025) I decided that it would be personally useful for me to make a light-web version of SOUND_TRACK_LOOPER_THREE (which will be hosted as a GitHub Page application (just as ANNOYING_AUTOMOBILE_DRIVER_SOUND_TRACK_LOOPER is)).
+
+For the entire time which SOUND_TRACK_LOOPER_THREE has been accessible on the public web (before 03_JUNE_2025) as a live single web page application, SOUND_TRACK_LOOPER_THREE has only been available on the dark web (and hosted from a laptop which I own and which is plugged into a wall electrical outlet inside of a closet and such that the laptop is almost always connected to a Wi-Fi Internet network).
+
+* * *
+
+It should be noted that every MP3 file of SOUND_TRACK_LOOPER_THREE is derivable from a uniquely corresponding MP4 file (and that MP4 file is inside of at least one of the "micro directories" in the following "macro directory" of karbytes):
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_macro_directory/
+
+It should also be noted that every media file and every source code file which is part of every software application which is featured in the following nexus web pages is also inside of at the aforementioned "macro directory" (and that each sound file which any of those software applications uses is also derivable from a uniquely corresponding MP4 file (and that MP4 file is inside of at least one of the aforementioned "micro directories")):
+
+https://karbytesforlifeblog.wordpress.com/software_engineering_portfolio/
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_test_github_hosted_website/
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website/
+
+* * *
+
+A detailed description of what constitutes the digital file collection named karbytes (and which spans the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com) is available at the following Uniform Resource Locator:
+
+https://karbytesforlifeblog.wordpress.com/about_karbytes/
+
+* * *
+
+Software applications which are hosted from GitHub Page repositories under the @karbytessupporter username (instead of @karlinarayberinger) can be entirely reconstituted from karbytes-exclusive files (and any MP3 files which are part of @karbytessupporter-exclusive software applications can be derived from corresponding MP4 files that are within the bounds of karbytes using the following MP4-to-MP3 conversion tool):
+
+https://karbytesforlifeblog.wordpress.com/mp4_to_mp3_converter/
+
