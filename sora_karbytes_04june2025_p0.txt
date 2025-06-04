@@ -1,0 +1,45 @@
+/**
+ * file: sora_karbytes_04june2025_p0.txt
+ * type: plain-text
+ * date: 04_JUNE_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of prompts which karbytes submitted to Sora (which karbytes accessed via its ChatGPT Plus account) in order to generate short videos between the points in time labeled 11:59PM Pacific Standard Time on 03_JUNE_2025 and 11:59PM Pacific Standard Time on 04_JUNE_2025. The three prompts which are featured in this transcript are the first (successful) trials of Sora which karbytes experienced.
+
+* * *
+
+karbytes:
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_39/main/chatgpt_generated_image_crystal_cube_california_landscape_18may2025.png]
+
+Make a short video of the following image where the camera circles the cube in the image 360 degrees.
+
+Sora:
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_41/main/sora_generated_video_magical_flying_cube_04june2025.mp4]
+
+* * *
+
+karbytes:
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_40/main/chatgpt_generated_image_space_cube_with_green_glowing_dot_trajectories_24may2025.png]
+
+Make a video of the uploaded image such that the green glowing dots inside the translucent cube move around inside the cube and flicker with varying degrees of brightness. Make the green dots appear to be traveling like ants in transit. Keep the cube rigid in shape.
+
+Sora:
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_41/main/sora_generated_video_cosmic_computer_cube_04june2025.mp4]
+
+* * *
+
+karbytes:
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_41/main/chatgpt_generated_image_black_hole_cube_04june2025.png]
+
+Cause the glass ripples inside the cube to spiral around the black sphere as the black sphere slowly expands in radius. Once it gets larger than the glass cube, cause the room to spiral and warp around the black sphere.
+
+Sora:
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_41/main/sora_generated_video_black_hole_cube_04june2025.mp4]
