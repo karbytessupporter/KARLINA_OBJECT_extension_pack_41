@@ -6,8 +6,12 @@
  * license: PUBLIC_DOMAIN
  */
 
-karbytes_0: "Nature created me in order for me to explore and to manipulate nature."
+karbytes_0: "Nature created me in order for me to explore nature and to manipulate nature."
 
 karbytes_1: "Are you insinuating that nature is some kind of intelligent creator and puppet master which intentionally manipulates humans as nature's pawns?"
 
-karbytes_1: "Not exactly. Instead, what I meant to convey is that I was created from multiple intelligent agents behaving in a collaborative manner but without most of those intelligent agents knowing that they were behaving in ways which would ultimately result in my emergence and in the emergence of my self-assigned purpose (which is to explore and to manipulate nature)."
+karbytes_1: "Not exactly. Instead, what I meant to convey is that I was created from multiple intelligent agents behaving in a collaborative manner but without most of those intelligent agents knowing that they were behaving in ways which would ultimately result in my emergence and in the emergence of my self-assigned purpose (which is to explore nature and to manipulate nature)."
+
+karbytes_1: "Are you suggesting that nature is not conscious of everything which is transpiring within it?"
+
+karbytes_0: "Yes. I am suggesting that nature contains multiple information processing agents which are each intelligent to some degree (and that it is not the case that every information processing agent which ever exists is intelligent in the same way as every other information processing agent is). That is because each individual information processing agent is a unique configuration of space, time, mass, and energy (and such is the case even if there exist parallel or non-intersecting universes which appear to be phenomenologically identical to each other)."
