@@ -10,7 +10,7 @@ karbytes_0: "Nature created me in order for me to explore nature and to manipula
 
 karbytes_1: "Are you insinuating that nature is some kind of intelligent creator and puppet master which intentionally manipulates humans as nature's pawns?"
 
-karbytes_1: "Not exactly. Instead, what I meant to convey is that I was created from multiple intelligent agents behaving in a collaborative manner but without most of those intelligent agents knowing that they were behaving in ways which would ultimately result in my emergence and in the emergence of my self-assigned purpose (which is to explore nature and to manipulate nature)."
+karbytes_0: "Not exactly. Instead, what I meant to convey is that I was created from multiple intelligent agents behaving in a collaborative manner but without most of those intelligent agents knowing that they were behaving in ways which would ultimately result in my emergence and in the emergence of my self-assigned purpose (which is to explore nature and to manipulate nature)."
 
 karbytes_1: "Are you suggesting that nature is not conscious of everything which is transpiring within it?"
 
